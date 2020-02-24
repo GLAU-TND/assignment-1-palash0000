@@ -1,3 +1,7 @@
 public interface PhoneBook {
-    void
+    void addMobileNumber();
+    void showMobileNumber();
+    void searchMobileNumber();
+    void deleteMobileNumber();
+    void exit();
 }
